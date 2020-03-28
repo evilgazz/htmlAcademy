@@ -1,0 +1,1 @@
+browser-sync start --server --no-notify --files "*.css,*.js,*.html,"
